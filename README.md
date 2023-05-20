@@ -1,5 +1,5 @@
 # Thiago Alves
-### ~ If you can dream it, you can do it 👋
+### ~ Fight fiercely for your dreams. 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/thiago-alves-b96b2159/)
 <!-- [![Twitter badge](https://img.shields.io/badge/twitter-white?logo=twitter&style=for-the-badge&logoColor=blue)](https://twitter.com/mariolucasdev) -->
@@ -20,4 +20,5 @@
 <code><img title="Less" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /></code>
 <code><img title="Jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /></code>
 <code><img title="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img title="Magento" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" /></code>
 <br>
