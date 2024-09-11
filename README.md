@@ -5,7 +5,7 @@
 <!-- [![Twitter badge](https://img.shields.io/badge/twitter-white?logo=twitter&style=for-the-badge&logoColor=blue)](https://twitter.com/mariolucasdev) -->
 [![Email badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:thiagoalves@ltdeveloper.com.br)
 
-- ⚡ Improving: **_PHP, JavaScript, SQL, MySQL, Laravel 8, 9 and 10, Git, Magento 2, Less, Jquery, ReactJS, Scrum Agile_**
+- ⚡ Improving: **_PHP, JavaScript, SQL, MySQL, Laravel, Laravel/Filament, Git, Magento 2, Less, Jquery, ReactJS, Scrum Agile_**
 <!-- - 📚 Learning: **_Python, Software Engineering_** -->
 
 ### Main Skills:
