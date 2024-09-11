@@ -14,7 +14,7 @@
 <code><img title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></code>
 <code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
 <code><img title="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/></code>
-<code><img title="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<code><img title="Laravel" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" />
           </code>
 <code><img title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></code>
 <code><img title="Less" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /></code>
